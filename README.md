@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GameRhino
+- 👀 I’m interested in drawing, coding etc
+- 🌱 I’m currently learning python, ai, machine learning 
+- 📫 How to reach me, just knock the door)
